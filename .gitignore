@@ -1,0 +1,13 @@
+# node
+node_modules
+
+# hardhat
+abi
+artifacts
+cache
+deployments
+# security
+.secret
+
+# remix
+contracts/.deps
